@@ -11,7 +11,7 @@ namespace newproject
         static void Main(string[] args)
         {
             Console.WriteLine("hell wordes");
-            Console.ReadLine();
+           
         }
     }
 }
